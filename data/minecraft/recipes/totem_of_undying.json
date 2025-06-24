@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "b#b",
+    "aca",
+    " a "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "a": {
+      "item": "minecraft:gold_block"
+    },
+    "b": {
+      "item": "minecraft:emerald"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "show_notification": true
+}

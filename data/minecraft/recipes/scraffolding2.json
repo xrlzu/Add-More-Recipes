@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#a#",
+      "# #",
+      "# #"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:string"
+      },
+      "#": {
+        "item": "minecraft:bamboo"
+      }
+    },
+    "result": {
+      "item": "minecraft:scraffolding",
+      "count": 6
+    },
+    "show_notification": true
+  }

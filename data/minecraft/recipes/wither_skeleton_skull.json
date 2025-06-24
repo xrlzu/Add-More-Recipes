@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "a#a",
+      "###"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:blaze_rod"
+      },
+      "#": {
+        "item": "minecraft:coal_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:wither_skeleton_skull",
+      "count": 1
+    },
+    "show_notification": true
+  }

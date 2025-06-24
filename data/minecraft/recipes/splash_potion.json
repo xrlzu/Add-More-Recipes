@@ -1,0 +1,19 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "aaa",
+      "aaa",
+      "aaa"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:poisonous_potato"
+      }
+    },
+    "result": {
+      "item": "splash_potion",
+      "count": 1
+    },
+    "show_notification": true
+  }

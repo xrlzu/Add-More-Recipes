@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#a#",
+      "###"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:magenta_dye"
+      },
+      "#": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "result": {
+      "item": "minecraft:magenta_concrete",
+      "count": 8
+    },
+    "show_notification": true
+  }

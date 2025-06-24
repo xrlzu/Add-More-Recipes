@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "## ",
+      "#a ",
+      " a "
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:stick"
+      },
+      "#": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:netherite_axe",
+      "count": 1
+    },
+    "show_notification": true
+  }

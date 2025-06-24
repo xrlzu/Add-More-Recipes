@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#a#",
+      "# #",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:purpur_pillar"
+      },
+      "a": {
+        "item": "minecraft:popped_chorus_fruit"
+      }
+    },
+    "result": {
+      "item": "minecraft:_planks",
+      "count": 1
+    },
+    "show_notification": true
+  }

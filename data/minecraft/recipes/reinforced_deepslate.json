@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "aaa",
+      "###"
+    ],
+    "key": {
+       "#": {
+      "item": "minecraft:obsidian"
+       },
+       "a": {
+      "item": "minecraft:deepslate"
+    }
+  },
+    "result": {
+      "item": "minecraft:reinforced_deepslate",
+      "count": 1
+    },
+    "show_notification": true
+}
