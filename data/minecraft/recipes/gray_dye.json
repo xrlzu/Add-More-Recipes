@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:tuff"
+    },
+    "result": "minecraft:gray_dye",
+    "experience": 200,
+    "cookingtime": 50
+}

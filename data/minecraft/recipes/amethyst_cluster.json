@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " a ",
+      " a ",
+      "aba"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "b": {
+        "item": "minecraft:amethyst_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:amethyst_cluster",
+      "count": 1
+    },
+    "show_notification": true
+  }

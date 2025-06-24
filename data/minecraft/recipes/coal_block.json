@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "aaa",
+      "aba",
+      "aaa"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:charcoal"
+      },
+      "b": {
+        "item": "minecraft:flint"
+      }
+    },
+    "result": {
+      "item": "minecraft:coal_block",
+      "count": 2
+    },
+    "show_notification": true
+  }

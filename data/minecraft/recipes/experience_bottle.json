@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#a#",
+      "###"
+    ],
+    "key": {
+       "#": {
+      "item": "minecraft:emerald"
+       },
+       "a": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+    "result": {
+      "item": "minecraft:experience_bottle",
+      "count": 64
+    },
+    "show_notification": true
+}
